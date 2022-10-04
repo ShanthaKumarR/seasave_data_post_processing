@@ -9,6 +9,8 @@ readme = 'README.md'
 
 classifiers = [
     "License :: OSI Approved :: MIT License",
+    "Development Status :: 1 - Planning",
+    "Operating System :: Microsoft :: Windows"
 ]
 requires-python = ">=3.6"
 dynamic = ["version", "description"]
