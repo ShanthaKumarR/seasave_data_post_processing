@@ -1,7 +1,7 @@
+""" ctd data post processing """
+
 import os
 import subprocess
-
-
 from xml.dom import minidom
 
 class Data_post_processing:
